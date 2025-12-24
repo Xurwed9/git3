@@ -16,3 +16,12 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.d1 {
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 60px;
+}
+
+.d2 {
+    border-bottom-left-radius: 50px;
+}
