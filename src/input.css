@@ -9,3 +9,10 @@
 .b1 {
     border: 1px solid white;
 }
+
+.bg2 {
+    background-image: url("./2722\ [преобразованный]\ 5.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
